@@ -1,0 +1,5 @@
+config BR2_PACKAGE_SENSOR_BH1750
+	bool "sensor_bh1750"
+	help
+	This is sample package.
+		Driver to read the light sensor BH1750
