@@ -1,0 +1,4 @@
+config BR2_PACKAGE_HELLO_DRIVER
+bool "hello_driver"
+help
+This is sample package.

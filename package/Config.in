@@ -1,5 +1,6 @@
 menu "Target packages"
-
+	source "package/hello_driver/Config.in"
+	source "package/sensor_bh1750/Config.in"
 	source "package/busybox/Config.in"
 	source "package/skeleton/Config.in"
 	source "package/skeleton-custom/Config.in"
