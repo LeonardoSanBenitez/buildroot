@@ -1,0 +1,2 @@
+#!/bin/sh
+modprobe sensor_bh1750
